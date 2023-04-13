@@ -235,13 +235,14 @@ html, body {
         box-sizing: border-box;
       }
     
-      /* .search:focus{
+      .search:focus{
         outline-color: black;
       }
-     */
+    
       .search{
+        box-sizing: border-box;
        
-        width: 300px;
+        width: 200px;
         padding-left: 10px;
         color: black;
         background-color:#d5d5d5;
