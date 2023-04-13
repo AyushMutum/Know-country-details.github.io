@@ -159,8 +159,8 @@ html, body {
 
 @media(max-width:580px){
     .heading{
-        width: 500px;
-        margin: auto;
+        width: 450px;
+       
         text-align: center;
     }
     .heading h1{
@@ -231,7 +231,7 @@ html, body {
       .search-box{
         display: flex;
         gap:10px;
-        width: 300px;
+        width: 400px;
         box-sizing: border-box;
       }
     
@@ -241,7 +241,7 @@ html, body {
      */
       .search{
        
-        
+        width: 300px;
         padding-left: 10px;
         color: black;
         background-color:#d5d5d5;
