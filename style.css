@@ -116,7 +116,7 @@ html, body {
     color: #ff465a;
   }
 
-@media(max-width:586px){
+@media(max-width:650px){
     .heading{
         width: 400px;
         margin: auto;
@@ -145,7 +145,7 @@ html, body {
         padding: 3em 2.5em;
         position: absolute;
         transform: translate(-50%, -50%);
-        top: 50%;
+        top: 55%;
         left: 50%;
         border-radius: 0.62em;
         box-shadow: 0 1.25em 1.8em rgba(8, 21, 65, 0.25);
@@ -170,7 +170,7 @@ html, body {
 
     }
     #result {
-        margin-top: -2rem;
+        margin-top: 2rem;
       }
       .container .flag-img {
         display: block;
